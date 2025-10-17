@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maribelupp.giub.io/sitemap.xml
+Sitemap: https://Maribelupp.giub.io/sitemap.xml
